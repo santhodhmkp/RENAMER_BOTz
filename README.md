@@ -49,11 +49,11 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/team_mkp">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/MoTech_YT">
-   <p> YouTube </p>
+<a href="https://t.me/team_mkp_cp">
+   <p> Telegram </p>
   </a>
 
 ## Credits
